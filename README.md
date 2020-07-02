@@ -7,4 +7,9 @@ IT WORKED. And it was enough of a test to move forward with modding the Ice Make
 I used a Cheap temperature controller from China, disabled the circuit board and just let the controller handle turning on and off the compressor
 to try and keep the water temperature return between 15-20 degrees C.
 
+By the pictures you can find here under Pictures, you will see what the unit looks like. I ran this way for over a year while I tinkered with 
+a Arduino system to controll the Chiller, Water Flow, Door Alarms and laser lockout.
+I pretty much had the code written, but wanted a bigger display for this system. 
+
+
 
