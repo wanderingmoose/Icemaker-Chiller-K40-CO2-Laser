@@ -17,11 +17,13 @@ The OctaPentaVeega VGA Shield was the winner. Very simple, three wires, power, g
 # Notes
 Just for ones knowledge, you bypass all the built in controls on the ice maker. You control the heat pump/compressor with a relay for the temperature control.
 The process of pumping the water from the laser tube to the top water bucket in the ice maker where the cooling fingers are, cools the water. As the water fills the top bucket, it falls to the bottom bucket and is pumped out to the laser tube. I have a water flow indicator on the input flow to monitor the water temperature coming in. This is the temperature the controller uses to controls the heat pump. The water pump should always be running, cooling or not.
+### Inlet/Outlet are in reference to the laser tube. Not the cooler system.
+
 
 
 
 # Update 
-Hand built the circuit to run the K40 Co2 Laser cooler system(V6.0) and built the OctaPentaVeega VGA Shield (mono) for the display(Old VGA monitor).
+Hand built the circuit to run the K40 Co2 Laser cooler system(Code V6.0) and built the OctaPentaVeega VGA Shield (mono) for the display(Old VGA monitor).
 Easy to see across my little shop and the cooler has never let me down. 
 ![Screenshot 2024-07-24 111251](https://github.com/user-attachments/assets/9a9cad58-1962-4d91-9657-df44336ace87)
 ![Screenshot 2024-07-24 111325](https://github.com/user-attachments/assets/40305bf1-5a5d-4601-b0bc-5ce330576fc6)
