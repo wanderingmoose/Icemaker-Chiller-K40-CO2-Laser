@@ -25,7 +25,10 @@ The process of pumping the water from the laser tube to the top water bucket in 
 # Update 
 Hand built the circuit to run the K40 Co2 Laser cooler system(Code V6.0) and built the OctaPentaVeega VGA Shield (mono) for the display(Old VGA monitor).
 Easy to see across my little shop and the cooler has never let me down. 
+
+### Old controller pictured here:
 ![Screenshot 2024-07-24 113049](https://github.com/user-attachments/assets/427cda58-9d0d-44eb-ba97-f612c33827cf)
+### Rest of the setup.
 ![Screenshot 2024-07-24 111251](https://github.com/user-attachments/assets/9a9cad58-1962-4d91-9657-df44336ace87)
 ![Screenshot 2024-07-24 111325](https://github.com/user-attachments/assets/40305bf1-5a5d-4601-b0bc-5ce330576fc6)
 ![Screenshot 2024-07-24 111416](https://github.com/user-attachments/assets/40d12ab4-6d2c-4d84-b41e-21f1e7d21716)
