@@ -96,9 +96,18 @@
   
   Menu: All done with code in the main loop
   Set Temperature--> Set Temp--> Swing Set--> Comp Delay--> High Temp Alarm--> Low Temp Alarm--> Min Flow--> Door--> Buzzer--> Alarms--> EXIT
-
-
-
+************************
+************************
+Temperature: the main value you want the unit to achive.
+Temperature Swing: The above and below the set temperature. 2 degrees is a good value.
+Compressor Delay: You do not want the compress to start/stop all the time, so a delay is used to let things settle. 30 seconds is a good start.
+High Temperature Alarm: set about 5 degrees above main temperture setpoint.
+Low Temperature Alarm: for most laser tubes, try not to go to low. Say 10 degrees below Temperature setpoint.
+Minimum Flow Rate: Good for lett you know if pump is pumping. Play with this one.
+Door/Buzzer: Can be used to disable the laser from firing for safety reasons. I did not use it.
+Alarms: on/off. 
+************************
+************************
 */
 /*--------------------------------------------------------------------------------------
   Includes
@@ -147,7 +156,7 @@
 #define MENU_ALARMS               8
 #define MENU_EXIT                 9
 // VGA Display stuff
-SoftwareSerial vga(9, 8);   // We are talking to OctaPentaVeega through pin 8.
+SoftwareSerial vga(9, 8);   // We are talking to OctaPentaVeega module through pin 8.
 // Pin 9 is unused as the shield does not respond. Open loop system.
 // Some static stuff for ANSI codes to the Veega board.
 const byte ESC[2] = {0x1B, 0x5B};
