@@ -1122,7 +1122,7 @@ void InitScreen() {
   //TEXT
   SetCursor (1, 2);  // some text and stuff
   SetColor (37, 40);
-  vga.print (" IceMaker Controller V6.0 ");
+  vga.print (" IceMaker Controller V6.1 ");
   SetCursor (3, 1);
   vga.print ("I/P Temp");
   SetCursor (5, 3);
