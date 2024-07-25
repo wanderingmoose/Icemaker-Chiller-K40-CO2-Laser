@@ -4,6 +4,11 @@
    June 30,2020 "Wanderingmoose Tinkering"
    *****IceMaker K40 Chiller Controller ****
            ***** V 6.0 Final *****
+*************************************************************           
+*******                DANGER                       *********
+*******   This Version could wear out the eeprom    *********
+*******         Please use Version 6.1 Final        *********
+*************************************************************
   STC-1000 Style cooling temperature controller (found a helps site, do not remenber where, might have been a forum)
   Features:
   Save setpoint in eeprom for temp, swing, compressor timer and other menu items.
